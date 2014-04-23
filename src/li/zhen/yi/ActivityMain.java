@@ -69,6 +69,6 @@ public class ActivityMain extends Activity {
 		// TODO Auto-generated method stub
 		
 	}
-    
+    //Just show show 
 }
 }
